@@ -13,8 +13,16 @@ p.italic{
 
 }
 
+p.bold{
+    font-weight: bold;
 
 
+}
+
+p.mark{
+    background-color: yellow;
+    max-width: 15%;
+}
 
 
 
