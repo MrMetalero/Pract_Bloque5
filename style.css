@@ -1,4 +1,21 @@
 
+/* Esto está puesto aquí para que se vea que podemos añadir
+estilos a través de CSS
+*/
+
+p.gener{
+    font-weight: bold;
+
+}
+
+p.italic{
+    font-style: italic;
+
+}
+
+
+
+
 
 
 
